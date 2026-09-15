@@ -1,4 +1,4 @@
-import {findHeroById} from "./services/heroes.service.ts";
+import {findHeroById} from "./services/heroes.service";
 
 const hero = findHeroById(1);
 
